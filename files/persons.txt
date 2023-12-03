@@ -1,0 +1,3 @@
+Mihai|33|manager
+George|22|carpenter
+Ana|31|welder
